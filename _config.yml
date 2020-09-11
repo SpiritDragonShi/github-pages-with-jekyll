@@ -13,4 +13,4 @@ twitter_username: ... your-twitter-handle # DO NOT include the @ character, or e
 github_username: altgr44 your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 theme: minima
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
