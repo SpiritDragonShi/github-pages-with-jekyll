@@ -13,5 +13,10 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username: altgr44 # DO NOT include the @ character, or else the build will fail!
 
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - about.md
+
 theme: minima
 
